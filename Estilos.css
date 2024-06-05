@@ -1,0 +1,83 @@
+li {
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+#title{
+    font-size: 50px;
+    color: #cb37e9;
+    font-weight: bold;
+    
+
+}
+.subtitulos{
+    font-size: 35px;
+    color: brown;
+    font-weight: 500;
+}
+body{
+    color: black;
+    background-color: #FFDFD3;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 20px;
+    
+    
+}
+p{
+    color: black;
+    font-size: 20px;
+    
+
+}
+table{
+    background-color: #FEC8D8;
+    margin: 50px auto 0px auto;
+}
+th,td{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #d291bc;
+}
+tr :hover{
+    background-color: #D291BC;
+}
+table thead{
+    background-color: #eb81bf;
+    color: rgb(14, 32, 32);
+}
+table tbody{
+    background-color: #FEC8D8;
+    border: 1px solid #ffffff;
+}
+h1{
+    color: rgb(240, 235, 237);
+    text-align: center;
+}
+h2{
+    color: rgb(146, 8, 73);
+    text-align: center;
+    
+}
+h3{
+    color: rgb(146, 8, 73);
+    
+}
+.container{
+    text-align: center;
+}
+.rounded-image{
+    border-radius: 15px;
+}
+ol{
+    padding: 3%;
+    text-align: left;
+}
+ul{
+    padding: 3%;
+    text-align: left;
+}
+.practicas{
+    text-align: center; 
+}
+
+
